@@ -1,4 +1,6 @@
-### Hi there 👋
+### BlockOne
+
+Genesis of a new ChainOfTrust
 
 <!--
 **ChainsOfBlocks/ChainsOfBlocks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
